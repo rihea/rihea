@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rihea
+- 👋 Hi, I’m @riya
 - 👀 I’m interested in learning new language
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
